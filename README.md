@@ -2,6 +2,8 @@
 
 🎓 ICT Student at HAMK University of Applied Sciences
 
+🔍 Seeking Data Analyst, BI Analyst, and ICT Internship opportunities in Finland.
+
 ## Skills
 - Python
 - SQL
