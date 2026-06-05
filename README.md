@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prachi Biswajit Barua 👋
 
-<!--
-**prachibiswajitict/prachibiswajitict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Student at HAMK University of Applied Sciences
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Data Analytics
+- Circular Economy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Data Engineering
+- Business Intelligence
+- Sustainability Analytics
+
+## Looking For
+- Data Analyst Internship
+- BI Analyst Internship
+- ICT Internship
+
+## Contact
+📍 Finland
